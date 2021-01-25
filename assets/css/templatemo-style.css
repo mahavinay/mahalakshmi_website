@@ -136,8 +136,8 @@ html {
 }
 
 .menu .image img {
-    width: 240px;
-    height: 340px;
+    width: 140px;
+    height: 170px;
     border-radius: 50%;
     text-align: center;
 }
@@ -764,8 +764,8 @@ section.contact-me {
     }
 
     .menu .image img {
-        width: 320px;
-        height: 920px;
+        width: 120px;
+        height: 170px;
     }
 
     .menu .author-content {
